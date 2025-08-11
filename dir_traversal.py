@@ -1,5 +1,6 @@
 import os
 
+
 def find_text_files(root_directory: str):
     """
     Scans a directory tree and returns a list of paths to all .txt files.

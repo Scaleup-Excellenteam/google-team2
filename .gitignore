@@ -1,3 +1,5 @@
 .idea
 .DS_Store
 students_materials/
+__pycache__/
+test_completion.py
